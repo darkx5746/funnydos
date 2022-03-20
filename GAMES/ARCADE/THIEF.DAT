@@ -1,0 +1,181 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 1   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..............................X           C : ENEMY1 - 4
+X..............................X           D : ENEMY2 - 2  ( POLICE )
+X.DBC.B........E.........B.CBD.X           E : ITEM1  - 1  ( SPEED UP )
+XXXXXXXXX....B.XX.B....XXXXXXXXX           F : ITEM2  - 1  ( LIFE )
+X............XXXXXX............X           G : PLAYER - 1
+X...........XX....XX...........X
+X...C.A..X.....BB.....X..A.C...X
+X..XXXXXXXX..XXXXXX..XXXXXXXX..X
+X..............................X
+X..............................X
+X..A..........A..A..........A..X
+XXXXXXX....XXXXXXXXXX....XXXXXXX
+X..............................X
+X..............................X
+X..A.......A...G....A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 2   A : FOOD1  - 8  ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..............................X           C : ENEMY1 - 4
+X............D....D............X           D : ENEMY2 - 2  ( POLICE )
+X..B.C...B..XX....XX..B...C.B..X           E : ITEM1  - 1  ( SPEED UP )
+X..XXXXXXXXXXX....XXXXXXXXXXX..X           F : ITEM2  - 1  ( LIFE )
+X..X........................X..X           G : PLAYER - 1
+X..X..........BFEB..........X..X
+X..X..B.C....XXXXXX....C.B..X..X
+X..XXXXXXX............XXXXXXX..X
+X...............A..............X
+X...........XXXXXXXX...........X
+X..A........X......X........A..X
+XXXXX....XXXX..A...XXXX....XXXXX
+X..............XX..............X
+X..............................X
+X..A.......A...G....A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 3   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..............E...............X           C : ENEMY1 - 4
+X..............................X           D : ENEMY2 - 2  ( POLICE )
+X..B.C..B.........B.D..B.......X           E : ITEM1  - 1  ( SPEED UP )
+XXXXXXXXXXX...XXXXXXXXXXXXXX...X           F : ITEM2  - 1  ( LIFE )
+X..............................X           G : PLAYER - 1
+X..............................X
+X.......B..D.B.........B..C.B..X
+X...XXXXXXXXXXXXXX...XXXXXXXXXXX
+X..............................X
+X..............................X
+X..A.C..A.........A....A.......X
+XXXXXXXXXXX...XXXXXXXXXXXXXX...X
+X..............................X
+X..............................X
+X..A....A....A..G.A....A..C.A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 4   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX..XXX...A......A...XXX..XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 5   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX...XXX..A......A..XXX...XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 6   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX...XXX..A......A..XXX...XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 7   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX...XXX..A......A..XXX...XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 8   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..............................X           C : ENEMY1 - 4
+X..........XX......XX..........X           D : ENEMY2 - 2  ( POLICE )
+XXX..........................XXX           E : ITEM1  - 1  ( SPEED UP )
+X.......XX.....XX.....XX.......X           F : ITEM2  - 1  ( LIFE )
+X...XX....................XX...X           G : PLAYER - 1
+X..........XX......XX..........X
+X..............................X
+X.......XX....XXXX....XX.......X
+X...XX....................XX...X
+X..........XX......XX..........X
+X..............................X
+X.......XX.....XX.....XX.......X
+X...XX....................XX...X
+X..........XX......XX..........X
+X..............................X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 9   A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX...XXX..A......A..XXX...XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX STAGE 10  A : FOOD1  - 10 ( CASH )
+X..............................X           B : FOOD2  - 8  ( DIAMOND )
+X..........E........F..........X           C : ENEMY1 - 4
+X.........BC........DB.........X           D : ENEMY2 - 2  ( POLICE )
+X..B.....XXX.B....B.XXX.....B..X           E : ITEM1  - 1  ( SPEED UP )
+X..X...XXXXXXX....XXXXXXX...X..X           F : ITEM2  - 1  ( LIFE )
+X..X.....XXX...D....XXX.....X..X           G : PLAYER - 1
+X..X...........XX...........X..X
+X..C...B.....XXXXXX.....B...C..X
+X..X..XXX......XX......XXX..X..X
+X..X.......A........A.......X..X
+X..X......XXX......XXX......X..X
+X..X....A......XX......A....X..X
+XXXX...XXX..A......A..XXX...XXXX
+X..........XXX....XXX..........X
+X..............................X
+X..A...C...A....G...A.......A..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+

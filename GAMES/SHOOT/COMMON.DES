@@ -1,0 +1,50 @@
+ 3 2 20 10 ; ship - up backword
+ 3 12 20 19 ; ship - backword
+ 3 21 20 30  ; ship - down backword
+ 25 2 44 10 ; ship - up
+ 25 12 44 19 ; ship - center
+ 25 21 44 30 ; ship - down
+ 49 2 68 10 ; ship - up forward
+ 49 12 68 19 ; ship - forward
+ 49 21 68 30 ; ship - down forward
+ 159 56 171 60 ; shoot normal
+ 157 105 218 112 ; shoot laser
+ 98 144 108 166 ; ripple laser 1
+ 116 130 130 180 ; ripple laser 2
+ 138 116 152 194 ; ripple laser 3
+ 101 66 107 78 ; forward shield
+ 98 56 109 60 ; option 1
+ 136 94 150 102 ; option 2 - slime
+ 3 52 18 67  ; image booming step 1
+ 21 52 36 67 ; image booming step 2
+ 39 52 54 67 ; image booming step 3
+ 66 56 70 60 ; enemy shoot image 1
+ 162 135 216 141 ; boss laser shoot
+ 66 64 70 68 ; enemy shoot image 2
+ 99 88 105 94 ; power item 1
+ 108 88 114 94 ; power item 2
+ 117 88 123 94 ; power item 3
+ 97 4 120 11  ; off panel speed
+ 97 12 120 18 ; off panel laser
+ 97 19 120 25 ; off panel ripple
+ 97 26 120 32 ; off panel option
+ 97 33 120 40 ; off panel bariea
+ 126 4 149 11 ; on panel speed
+ 126 12 149 18 ; on panel laser
+ 126 19 149 25 ; on panel ripple
+ 126 26 149 32 ; on panel option
+ 126 33 149 40 ; on panel bariea
+ 97 42 120 49 ; panel cleared 1
+ 126 42 149 49 ; panel cleared 2
+ 11 40 14 44 ; mini num 0
+ 16 40 19 44 ; mini num 1
+ 21 40 24 44 ; mini num 2
+ 26 40 29 44 ; mini num 3
+ 31 40 34 44 ; mini num 4
+ 36 40 39 44 ; mini num 5
+ 41 40 44 44 ; mini num 6
+ 46 40 49 44 ; mini num 7
+ 51 40 54 44 ; mini num 8
+ 56 40 59 44 ; mini num 9
+ 4 40 8 44 ; mini num tile
+
