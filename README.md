@@ -8,8 +8,8 @@
 ![5](https://user-images.githubusercontent.com/1445129/159158232-5404c6a2-dadd-40a8-b6ff-0515b6d7427e.png)
 
 # 빌드
-* 도스박스 빌드 시스템은 아래 링크에서 다운받는다 
+* 도스박스 빌드 시스템은 아래 링크에서 다운받는다   
 [도스박스 빌드 시스템](https://github.com/pdpdds/DOSDev/releases/tag/1.0)  
-* 소스코드 다운받고 도스박스 빌드 시스템의 HDD/DosDev/funny 폴더에 압축을 푼다
-*  비쥬얼 스튜디오 코드로 funny 폴더의 하위 폴더를 선택한다
+* 소스코드 다운받고 도스박스 빌드 시스템의 HDD/DosDev/funny 폴더에 압축을 푼다  
+*  비쥬얼 스튜디오 코드로 funny 폴더의 하위 폴더를 선택한다  
 
